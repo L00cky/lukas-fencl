@@ -1049,6 +1049,7 @@
 		transform: scale(1.0);
 		-webkit-backface-visibility: hidden;
         background-image: url(../images/Retro-Feature.jpg);
+        background-repeat: no-repeat;
 		position: fixed;
 		top: 0;
 		left: 0;
